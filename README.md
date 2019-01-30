@@ -2,4 +2,4 @@
 
 https://github.com/alexstocker/sensorlogger/tree/master
 
-will be moved to here one day
+will be moved to here one day. Any contribution welcome!
